@@ -1,5 +1,10 @@
 # intro_data_science.1
 5.03.2026
 
+Buongiorno caffè
 
-Ready to merge
+Lascio qui le mie ultima volontà
+
+Hallo, hello, salut, hola!
+
+Auf Wiedersehen, goodbye, au revoir, adiós!!
