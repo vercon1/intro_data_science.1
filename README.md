@@ -4,3 +4,5 @@
 Lascio qui le mie ultima volontà
 
 Hallo, hello, salut, hola!
+
+Auf Wiedersehen, goodbye, au revoir, adiós!!
